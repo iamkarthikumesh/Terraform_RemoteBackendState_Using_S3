@@ -31,5 +31,5 @@ Managing Terraform state files locally works for small projects, but for team co
 1. **Clone this repo:**
 
 ```bash
-git clone https://github.com/your-username/Terraform_RemoteBackendState_Using_S3.git
+git clone https://github.com/iamkarthikumesh/Terraform_RemoteBackendState_Using_S3.git
 cd Terraform_RemoteBackendState_Using_S3
